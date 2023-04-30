@@ -411,7 +411,7 @@ Enter alias for new AID: QVI External AID
 
 At this point, if the configuration information all looks correct (as confirmed with the Lead while still on the video
 call), you would enter Y at the first prompt to approve joining the group, then enter your local Alias for the group multisig
-AID that you will be joining.  It is recommended that the aliases "QVI AID" and "QVI AID" be used for
+AID that you will be joining.  It is recommended that the aliases "QVI External AID" and "QVI AID" be used for
 the external and internal AIDs respectively.
 
 After you accept the event you should leave this script running as you wait for all other participants to join the group and 
